@@ -8,7 +8,7 @@
 #' @param case.sensitive a logical value. If \code{TRUE}, pattern-matching is case-sensitive.
 #' @param show.results a logical value. If \code{TRUE}, results are printed after completion.
 #' @param copy a logical value. If \code{TRUE}, all matching PDF files are copied to \code{folder}.
-#' @param folder a character vector, path or name of new folder to copy matching PDF files scripts to.
+#' @param folder a character vector, path or name of new folder to copy matching PDF files to.
 #' @param overwrite a logical value. If \code{TRUE}, existing destination files are overwritten.
 #' @examples
 #'# Find all PDF files in the package folder that contain the name Hanna
@@ -41,11 +41,11 @@ findPDF <- function(path = ".",
       if (case.sensitive == FALSE) {
 
         pattern <- tolower(pattern)
-        a <- tolower(readLines(fls[i], warn = F))
+        a <- try(suppressMessages(tolower(pdftools::pdf_text(fls[i]))), silent = TRUE)
 
       } else {
 
-        a <- readLines(fls[i], warn = F)
+        a <- try(suppressMessages(pdftools::pdf_text(fls[i])), silent = TRUE)
 
       }
 

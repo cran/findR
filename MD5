@@ -1,10 +1,11 @@
-f0e67d12d388052da4ae29f5b70154b7 *DESCRIPTION
-cf7d6e1986c2dbd89e5152700331f21e *NAMESPACE
-0a089a76f9b58c1a2d56be5793db4c03 *NEWS
-a2b37e0a0bfc81ba4938ee4b384e277a *R/findPDF.R
+62bfed214d075dd2abf1ba01678f2478 *DESCRIPTION
+f020edbe565a46ba2553f6e23c7bf505 *NAMESPACE
+3612cf3f246e6afe2cfbf80bb32b90fb *NEWS
+54fe4a747a3c14e584ce0ff832c08e7b *R/findPDF.R
 7a960b56ea53a81674aec00011d9416f *R/findRmd.R
 6c76d083207f16e0c0cc3f2aa5e6afc9 *R/findRscript.R
 9b0fe98a8689c8588ff3c3ae4bb0aea7 *R/findtxt.R
+b9686a8ce8d20518c764dc05223048dd *R/reminder.R
 607167cbae3cbb23e3d4ec713487ef73 *inst/testfiles/pdf1.pdf
 b2a8385ea00e36cee505df50097b25ca *inst/testfiles/pdf2.pdf
 862f9aacae271f88a3b1614efb319506 *inst/testfiles/pdf3.pdf
@@ -13,7 +14,7 @@ f65ec30c10848b359610c4be79801696 *inst/testfiles/rmd2.Rmd
 d3d41321130e63222199ea2af504aa4e *inst/testfiles/rmd3.Rmd
 63f71a54c9dc9bcab4e50bd3a2ceef1e *inst/testfiles/rmd4.Rmd
 06973d44d479a29f394a136063ad2ac8 *inst/testfiles/rmd5.Rmd
-596bdfdfc82cd0824d1f7c8bdd27f7a6 *inst/testfiles/script1.R
+9eaac9ee3f77c0bd912496c1da0e7704 *inst/testfiles/script1.R
 4864a7d7eb7ba8af50c01df482c617e2 *inst/testfiles/script10.R
 a040f0fbed5115b89751bf14a37bd834 *inst/testfiles/script2.R
 8afdfce3a173ff90cc530292017eabd6 *inst/testfiles/script3.R
@@ -29,7 +30,8 @@ faafa006c9ec08efb54ef4fb431df6f1 *inst/testfiles/txt2.txt
 d8da3fe3f4f7634d86082fe5a77c1fe7 *inst/testfiles/txt4.txt
 3497c3ffbf8845a1a5afd2511c9ca306 *inst/testfiles/txt5.txt
 392dc244d2711a21cc370f6be9016144 *inst/testfiles/txt6.txt
-5f34e85dd7f4a8eaee9b9c0bc801dc56 *man/findPDF.Rd
+3ee4d153930f01d115ee835a4b0c5c09 *man/findPDF.Rd
 112b87b5ad06247d4e5a30eeeadd0534 *man/findRmd.Rd
 0b6bdea69cfaab9ed913d73604511053 *man/findRscript.Rd
 0e3ac07afa81c1a7d26ce3bb64f8a8bc *man/findtxt.Rd
+eb35369508c641e276d1b72ca003b95b *man/reminder.Rd
