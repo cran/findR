@@ -1,11 +1,11 @@
-62bfed214d075dd2abf1ba01678f2478 *DESCRIPTION
+f4171f48703c20249238395f5ba70378 *DESCRIPTION
 f020edbe565a46ba2553f6e23c7bf505 *NAMESPACE
-3612cf3f246e6afe2cfbf80bb32b90fb *NEWS
+dc490a797f39e31a266a190f9964b42e *NEWS
 54fe4a747a3c14e584ce0ff832c08e7b *R/findPDF.R
 7a960b56ea53a81674aec00011d9416f *R/findRmd.R
 6c76d083207f16e0c0cc3f2aa5e6afc9 *R/findRscript.R
 9b0fe98a8689c8588ff3c3ae4bb0aea7 *R/findtxt.R
-b9686a8ce8d20518c764dc05223048dd *R/reminder.R
+3f2c98f021485e1cfe786ac0f0a77809 *R/reminder.R
 607167cbae3cbb23e3d4ec713487ef73 *inst/testfiles/pdf1.pdf
 b2a8385ea00e36cee505df50097b25ca *inst/testfiles/pdf2.pdf
 862f9aacae271f88a3b1614efb319506 *inst/testfiles/pdf3.pdf
@@ -34,4 +34,4 @@ d8da3fe3f4f7634d86082fe5a77c1fe7 *inst/testfiles/txt4.txt
 112b87b5ad06247d4e5a30eeeadd0534 *man/findRmd.Rd
 0b6bdea69cfaab9ed913d73604511053 *man/findRscript.Rd
 0e3ac07afa81c1a7d26ce3bb64f8a8bc *man/findtxt.Rd
-eb35369508c641e276d1b72ca003b95b *man/reminder.Rd
+342f5a696a9ae060ff3a9ffd40747d64 *man/reminder.Rd
